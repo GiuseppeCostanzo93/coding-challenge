@@ -1,0 +1,70 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    
+}
+img{
+    
+    height: 100px;
+    width: 220px;
+}
+
+
+    
+
+
+div{
+    background-color: rgb(20, 20, 20, 0.5);
+    text-align: center;
+    border-radius: 10px;
+    width: 800px;
+    margin: 0 auto;
+    
+    
+    
+}
+
+h1{
+    color: rgb(4, 255, 4);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.navbar{
+    background-color: rgb(4, 255, 4);
+    margin: 0px auto;
+    width: 700px;
+    border-radius: 0%;
+    
+
+}
+a{ 
+    background-color: white;
+    padding: 3px;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    border: solid 1px black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+    
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    margin: 5px 50px;
+}
+p{
+    color: white;
+    text-align: left;
+    margin: 7px 55px;
+}
+.carica{
+    color: white;
+    text-align: left;
+    margin: 7px 55px;
+    font-size: smaller;
+}
